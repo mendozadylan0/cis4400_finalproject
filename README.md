@@ -3,7 +3,7 @@
 **Context:**\
 The data sets used for this project are the *311 Service Requests from 2010 to Present* filtered by Street Light Complaints and the *Motor Vehicle Collisions - Crashes*. Both data sets were sourced from NYC OpenData. Records used in this project are dated between January 2019 and December 2021.
 
-The ETL was performed using Python, Socrata's OpenData API, and Google BigQuery's python connector packages and API. Data is hosted on Google BigQuery. Ad-hoc analysis and dashboarding were both performed using Tableau
+The ETL was performed using Python, Socrata's OpenData API, and Google BigQuery's python connector packages and API. Data is hosted on Google BigQuery. Ad-hoc analysis and dashboarding were both performed using Tableau.
 
 **Objective:**\
 Given the data sets that were selected for this project, try to answer the following questions:
