@@ -1,5 +1,8 @@
 # 311 Street Light Complaints vs. Car Crashes in NYC (Jan. 2019 - Dec. 2021)
 
+![nyc-opendata-logo-og-facebook](https://user-images.githubusercontent.com/82073881/151915638-a30e8414-a97c-4164-92ae-5fb9cbb4c051.png)
+
+
 **Context:**\
 The data sets used for this project are the *311 Service Requests from 2010 to Present* filtered by Street Light Complaints and the *Motor Vehicle Collisions - Crashes*. Both data sets were sourced from NYC OpenData. Records used in this project are dated between January 2019 and December 2021.
 
@@ -19,7 +22,8 @@ Links to the data sets (from NYC OpenData) can be found below. Data dictionaries
 - 311 Service Requests from 2010 to Present: https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9
 - Motor Vehicle Collisions - Crashes: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
 
----
 
-**Tableau Dashboard:**\
+
+**Tableau Dashboard:**
+
 ![311 Traffic Light Complaints and Car Crashes in NYC 2019-2021](https://user-images.githubusercontent.com/82073881/151912103-e0b331ad-9547-4dd5-9044-082b7ebdbaf1.png)
